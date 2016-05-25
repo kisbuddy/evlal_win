@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\geoip2\geoip2 pip\ install ipaddr-2.1.11.tar.gz
+C:\Users\Administrator\Desktop\geoip2\geoip2 pip\ install maxminddb-1.2.0.tar.gz
+
+
+或者把  geoip2-2.3.0-py2.7.egg
+复制到   下面
+D:\Python27\Lib\site-packages
