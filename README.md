@@ -10,11 +10,11 @@ Db_Model            #数据库响应 <br>
 ico     #ICO图标 <br>
 system  #配置文件，IP数据，国家图标 <br>
 ui      #UI窗口 <br>
-#这3个编译后需要拷贝到编译目录下(配置文件) <br>
+这3个编译后需要拷贝到编译目录下(配置文件) <br>
  <br>
 geoip2           #IP数据库 <br>
 pyinstaller-2.0  #编译文件 <br>
 sqlite3          #sqlite3数据库 <br>
-#第3方库 <br>
+第3方库 <br>
  <br>
 安装完就可以运行   和  编译了 <br>
