@@ -1,3 +1,9 @@
+BLOG： http://blog.csdn.net/webxscan/ <br>
+BY：神龙 QQ:29295842 <br>
+软件直接下载地址： <br>
+下载地址 http://eval.webxscan.com/download.html <br>
+大家的支持是我开发的动力 <br>
+ <br>
 开山斧 WIN版本 <br>
 需要你安装  <br>
 python 2.7x 32位PY  https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi <br>
