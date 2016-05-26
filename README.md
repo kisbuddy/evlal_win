@@ -16,5 +16,17 @@ geoip2           #IP数据库 <br>
 pyinstaller-2.0  #编译文件 <br>
 sqlite3          #sqlite3数据库 <br>
 第3方库 <br>
+main.py  主程序入口
+db_ui.py 编辑提交内容
+
+
  <br>
 安装完就可以运行   和  编译了 <br>
+<img src="http://img.blog.csdn.net/20160524101029620?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center"  alt="pyqteval" />
+<img src="http://img.blog.csdn.net/20160524100856152?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center"  alt="pyqteval" />
+<img src="http://img.blog.csdn.net/20160506192749032?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center"  alt="pyqteval" />
+<img src="http://img.blog.csdn.net/20160506192800678?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center"  alt="pyqteval" />
+
+
+
+
