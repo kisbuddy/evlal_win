@@ -1,7 +1,7 @@
 开山斧 WIN版本 <br>
 需要你安装  <br>
 python 2.7x 32位PY  https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi <br>
-pyqt4 32位  sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py2.7-Qt4.8.7-x32.exe <br>
+pyqt4 32位  https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py2.7-Qt4.8.7-x32.exe <br>
 目录介绍 <br>
 Clicked_Controller  #事件响应 <br>
 Ui_View             #UI响应 <br>
@@ -16,8 +16,9 @@ geoip2           #IP数据库 <br>
 pyinstaller-2.0  #编译文件 <br>
 sqlite3          #sqlite3数据库 <br>
 第3方库 <br>
-main.py  主程序入口
-db_ui.py 编辑提交内容
+main.py  #主程序入口 <br>
+db_ui.py #编辑提交内容 <br>
+pyinstaller_exe发布.bat   #编译成EXE 发布 <br>
 
 
  <br>
